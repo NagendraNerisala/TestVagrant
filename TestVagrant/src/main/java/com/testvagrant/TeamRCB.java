@@ -1,7 +1,7 @@
 package com.testvagrant;
 
 
-//This POJO class is to convert team JSON to java object (for player specific details)
+//This POJO class is to convert team JSON to java object (for team specific details)
 
 public class TeamRCB {
 

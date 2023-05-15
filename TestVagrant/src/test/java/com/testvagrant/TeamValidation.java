@@ -16,7 +16,7 @@ public class TeamValidation {
 	public static Player[] players;
 	
 //This runs only once before execution of test cases and 
-// it reads the given JSON and convert it as java object which is used to validate in test cases.
+//It reads the given JSON and convert it as java object which is used to validate in test cases.
 
 	@Before
 	public void init() {

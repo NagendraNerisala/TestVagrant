@@ -1,6 +1,7 @@
 package com.testvagrant;
 
 
+// This POJO class is to convert player JSON to java object (for player specific details)
 
 public class Player {
 	
